@@ -135,31 +135,6 @@ Example prediction plots:
 
 ---
 
-# 📁 Repository Structure
-
-```
-RUL-Prediction/
-│
-├── Dataset/
-│
-├── notebooks/
-│
-├── models/
-│
-├── results/
-│
-│   ├── graphs/
-│   ├── predictions/
-│   └── metrics/
-│
-├── paper/
-│   └── Research_Paper.pdf
-│
-├── README.md
-│
-└── requirements.txt
-```
-
 # 📷 Sample Outputs
 
 - Capacity vs Cycle Curve
