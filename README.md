@@ -166,7 +166,7 @@ The paper presents:
 📄 **Paper Location**
 
 ```
-paper/FinalDraft.pdf
+main/FinalDraft.pdf
 ```
 
 ---
